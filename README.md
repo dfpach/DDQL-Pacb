@@ -6,3 +6,6 @@ The MATLAB file entrenaDDQL1diaexp1.zip contains the first 200 results from the 
 The trained neural network Qnet in the file "entrena1diaDDQLexp1.mat" has 4 inputs (one for each state variable) and 16 outputs (one for each action). 
 
 
+The original LTE simulator with access control was implemented by Luis Tello https://github.com/lptelloq/LTE-A_RACHprocedure
+
+My contribution is an implementation of Double Deep Q-Learning for access control optimization in a system that can adapt Pacb using the LTE-A simulator
