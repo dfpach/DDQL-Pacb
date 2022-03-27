@@ -9,3 +9,5 @@ The trained neural network Qnet in the file "entrena1diaDDQLexp1.mat" has 4 inpu
 The original LTE simulator with access control was implemented by Luis Tello https://github.com/lptelloq/LTE-A_RACHprocedure
 
 My contribution is an implementation of Double Deep Q-Learning for access control optimization in a system that can adapt Pacb using the LTE-A simulator
+
+The main file to train a system is LTEA_M_H_ACB_DDQL_v2.m
